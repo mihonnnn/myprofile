@@ -63,13 +63,13 @@ header{
     padding:5px 5px;
     font-size:2.2vw;
 }
-.headernav ul{
+.header_nav ul{
     display:flex;
     justify-content:space-between;
     padding:10px 10px;
 
 }
-.headernav li{
+.header_nav li{
     color:#fff;
     text-decoration:none;
     transition:.3s;
